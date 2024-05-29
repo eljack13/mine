@@ -9,11 +9,11 @@
 # snapshot             Install vanilla first
 
 # Ngrok region
-# Code           Place
+# Code           Place    
 #-----------     ---------------------------
 # ap	          Asia/Pacific (Singapore)
 # au		  Australia (Sydney)
-# eu		  Europe (Frankfurt)
+# eu		  Europe (Frankfurt)asda
 # in		  India (Mumbai)
 # jp		  Japan (Tokyo)
 # sa		  South America (São Paulo)
